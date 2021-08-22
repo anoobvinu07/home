@@ -1,5 +1,5 @@
 # blog page sections
-- name: Publication
+- name: Publications
   href: /pub/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
