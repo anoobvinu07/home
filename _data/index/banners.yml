@@ -2,8 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/banner2.png
+- src: landing/banner2.jpg
   title: ego
 
-- src: landing/banner3.png
+- src: landing/banner3.jpg
   title: beauty of vermont
