@@ -1,18 +1,19 @@
 # links section data
-- last_name: 
-  first_name: Keller Lab
+- last_name: Keller Lab
+  first_name: 
   desc: Current lab
   website: http://www.uvm.edu/~kellrlab/index.html
-  # email: ceo@google.com
+  
 
-- last_name: Dept.
-  first_name: Plant Biology
+- last_name: Dept. of Plant Biology
+  first_name: 
   desc: University of Vermont
   website: https://www.uvm.edu/cals/plantbiology
-  # email: me@jarrekk.com
+  
 
 - last_name: NSF 
   first_name: QuEST
   desc: Internship
   website: https://www.uvm.edu/quest
-  # email: coo@google.com
+
+# email: coo@google.com
