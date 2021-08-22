@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: University of Vermont
+    i18n: 
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Joined Keller Lab to work on the NSF funded research on red spruce
+    i18n: 
   date:
-    detail: Apr. 2016
+    detail: 2018
     i18n: company_a_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: PhD
+    i18n: 
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Kerala Agricultural University
+    i18n: 
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Taught in the Department of Tree Physiology and Breeding
+    i18n: 
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: 2014
+    i18n: 
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Teaching Assistant
+    i18n: 
+  icon: fa-plus-square
+  
+ - name:
+    detail: Kerala Agricultural University
+    i18n: 
+  desc:
+    detail: Investingating the impact of particulte pollution on moist deciduous trees
+    i18n: 
+  date:
+    detail: 2011
+    i18n: 
+  job:
+    detail: MSc
+    i18n: 
+  icon: fa-plus-square
+  
+  - name:
+    detail: Kerala Agricultural University
+    i18n: 
+  desc:
+    detail: Fours years of Forestry education
+    i18n: 
+  date:
+    detail: 2007
+    i18n: 
+  job:
+    detail: BSc
+    i18n: 
   icon: fa-plus-square
