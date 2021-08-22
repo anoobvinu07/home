@@ -23,6 +23,13 @@
   name: Projects
   tpl: projects.html
   css: project
+  
+ - id: blog
+  i18n: nav.blog
+  name: Research
+  tpl: blog.html
+  page: blog/
+  css: testimonials navy-section
 
 - id: links
   i18n: nav.link
